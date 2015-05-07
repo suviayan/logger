@@ -1,3 +1,5 @@
+
+
 举例：logger -p local3.info'' local3 facility这个设备的消息级别为info. 默认是 ``user.notice.''
 
 -t tag 打上特定的标志.
